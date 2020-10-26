@@ -1,0 +1,18 @@
+p{
+  padding: 100px;
+  background-color: blueviolet;
+
+}
+
+marquee{
+        font: black;
+}
+div{
+     font-size: medium;
+      color:black;
+
+}
+div.main{
+
+    color: burlywood;
+}
