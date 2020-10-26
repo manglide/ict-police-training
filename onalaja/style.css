@@ -1,0 +1,6 @@
+p{
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;  /* affects all sides of the header instead of r,l c */ 
+    background-color: blue;
+}   
